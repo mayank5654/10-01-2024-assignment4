@@ -12,3 +12,4 @@ F:\phase3\daily examples\day4\assignment4\assignment4\obj\Debug\net6.0\refint\as
 F:\phase3\daily examples\day4\assignment4\assignment4\obj\Debug\net6.0\assignment4.pdb
 F:\phase3\daily examples\day4\assignment4\assignment4\obj\Debug\net6.0\assignment4.genruntimeconfig.cache
 F:\phase3\daily examples\day4\assignment4\assignment4\obj\Debug\net6.0\ref\assignment4.dll
+F:\phase3\daily examples\day4\assignment4\assignment4\obj\Debug\net6.0\assignment4.sourcelink.json
